@@ -1,3 +1,9 @@
+Tampilan website (sebagian kepotong)
+![Screenshot from 2024-08-03 22-43-36](https://github.com/user-attachments/assets/0dc07b58-5269-4b90-be41-88d51eaefaa5)
+![Screenshot from 2024-08-03 22-44-28](https://github.com/user-attachments/assets/a13f2069-a069-4258-9ef0-c52cbf8edb45)
+![Screenshot from 2024-08-03 22-44-41](https://github.com/user-attachments/assets/195362c3-4d58-4527-be24-c580f61a264b)
+![Screenshot from 2024-08-03 22-44-49](https://github.com/user-attachments/assets/65638e79-1632-4c1e-8579-06f924516a33)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
